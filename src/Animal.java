@@ -3,10 +3,12 @@ public class Animal {
     private String command;
 
     public Animal(String name) {
+
         this.name = name;
     }
 
     public String getName() {
+
         return name;
     }
 
